@@ -1,12 +1,36 @@
-# Anon - An eCommerce Website
+# 🛒 Anon E-Commerce Website  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-View%20Now-blueviolet?logo=github)](https://sonukumar7065.github.io/Anon-Ecommerce-Website/)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+A modern, responsive, and fully functional **E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
+It replicates the core functionality of a real shopping platform — with product listings, cart management, and a clean, modern interface.  
+
+---
+
+## 🚀 Features  
+
+- 🏠 **Home Page:** Showcases featured and trending products.  
+- 🛍️ **Product Listings:** Browse products with details, prices, and images.  
+- 🧺 **Shopping Cart:** Add, remove, and manage cart items in real time.  
+- 💳 **Checkout Page:** Smooth checkout experience.  
+- 🔍 **Search Functionality:** Find products quickly by name or category.  
+- 🌙 **Dark / Light Mode (optional):** Toggle modern theme modes.  
+- 📱 **Responsive Design:** Works on mobile, tablet, and desktop screens.  
+
+---
+
+## 🧰 Tech Stack  
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Website structure |
+| **CSS3** | Styling and layout |
+| **JavaScript (ES6)** | Logic and interactivity |
+
 
 ## Demo
 
@@ -20,24 +44,13 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ## Installing Anon
-
 To install **Anon**, follow these steps:
 
-Linux and macOS:
+## ⚙️ How to Run Locally  
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/SonuKumar7065/Anon-Ecommerce-Website.git
 
 ## License
 
